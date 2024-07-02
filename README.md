@@ -20,7 +20,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 ## Features of Employee Navigation Form
 
 ### Navigation Buttons:
-
 -First: Navigate to the first record.
 -Previous: Navigate to the previous record.
 -Next: Navigate to the next record.
