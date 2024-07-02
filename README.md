@@ -21,16 +21,22 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ### Navigation Buttons:
 -First: Navigate to the first record.
+
 -Previous: Navigate to the previous record.
+
 -Next: Navigate to the next record.
+
 -Last: Navigate to the last record.
 
 ### Control Buttons:
-
 -New: Create a new employee record.
+
 -Save: Save changes made to the current record.
+
 -Edit: Edit the current record.
+
 -Change: Change details of the current record.
+
 -Reset: Reset the form to its initial state.
 
 ## Screenshots
