@@ -19,7 +19,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ## Features of Employee Navigation Form
 
-###Screenshots of Navigation & Control Buttons
+### Screenshots of Navigation & Control Buttons
 
 ![Screenshot 2024-07-06 164252](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/a49fb050-0ca7-4bc5-943a-c849eefaa274)
 ![Screens![Screenshot 2024-07-06 164635](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/39904030-1886-4731-bc5e-fa8c3a052dd0)
