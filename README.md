@@ -25,13 +25,16 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ![Screenshot 2024-07-06 164252](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/a49fb050-0ca7-4bc5-943a-c849eefaa274)
 
--When multiple data in database , it provides controls on good navigation.
+-When multiple records in database , it provides controls on  navigation.
 
 ![Screens![Screenshot 2024-07-06 164635](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/39904030-1886-4731-bc5e-fa8c3a052dd0)
 hot 2024-07-06 164612](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/798c3c8e-a412-4474-8ca5-497179f45d6f)
 
--
+-When last record is displayed, the last and next navigation buttons are disabled.
+
 ![Screenshot 2024-07-06 164635](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/6a49331d-8c79-40e6-96cc-3c4a33c0106a)
+
+-When first record is displayed, the first and previous navigation buttons are disabled.
 
 ![Screenshot 2024-07-06 164647](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/fcc81044-5f74-4ada-ac50-9aefc89f08d9)
 
