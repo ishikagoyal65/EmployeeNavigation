@@ -19,6 +19,13 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ## Features of Employee Navigation Form
 
+###Screenshots of Navigation & Control Buttons
+
+![Screenshot 2024-07-06 164252](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/a49fb050-0ca7-4bc5-943a-c849eefaa274)
+![Screens![Screenshot 2024-07-06 164635](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/39904030-1886-4731-bc5e-fa8c3a052dd0)
+hot 2024-07-06 164612](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/798c3c8e-a412-4474-8ca5-497179f45d6f)
+![Screenshot 2024-07-06 164647](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/fcc81044-5f74-4ada-ac50-9aefc89f08d9)
+
 ### Navigation Buttons:
 -First: Navigate to the first record.
 
@@ -40,12 +47,8 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 -Reset: Reset the form to its initial state.
 
 ## Screenshots
-
-### JsonPowerDb Dashboard
-![Screenshot 2024-07-02 201313](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/a8b99972-08c5-4146-a1f8-91c2bd94d1c0)
-
-### Employee Database
-![Screenshot 2024-07-02 201505](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/0631b8cd-adcf-4758-86d6-d093ebbdcf9b)
+### Data stored at User's side in JsonPowerDb Database
+![Screenshot 2024-07-06 164732](https://github.com/ishikagoyal65/EmployeeNavigation/assets/94466535/72a0ba14-a713-4622-82cd-6344258aa803)
 
 ## Sources
 
